@@ -7,15 +7,15 @@
   --paragraph-font: 'Handlee', cursive;
 
   
-  --headline-color-on-white: #396E94;   
+  --headline-color-on-white: #4289bb;   
   --headline-color-on-color: white; 
   --paragraph-color-on-white: #396E94; 
-  --paragraph-color-on-color: black; 
-  --paragraph-background-color: gray  ;
-  --nav-link-color: #396E94;
-  --nav-background-color: #D4AC0D;
-  --nav-hover-link-color:black;
-  --nav-hover-background-color: grey;
+  --paragraph-color-on-color: rgb(180, 155, 155); 
+  --paragraph-background-color: rgb(128, 87, 87)  ;
+  --nav-link-color: rgb(101, 170, 219);
+  --nav-background-color: #91896b;
+  --nav-hover-link-color:rgb(150, 106, 106);
+  --nav-hover-background-color: rgb(204, 172, 172);
 }
 
 
