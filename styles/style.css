@@ -174,5 +174,58 @@ footer .social img {
     margin: 200px 0;
 }
 
-
-            
+.rivers-logo-section{
+    padding: 35px;
+    display: flex;
+}
+.logo-label{
+    margin-top: 25px;
+    margin-left: 5px;
+}
+.rivers-nav{
+    margin: auto;
+    padding: 35px;
+    display: flex;
+}
+.rivers-nav-item{
+    margin: auto;
+} 
+.river-title, h3{
+    margin: auto;
+    text-align: center;
+    color: #55aac0;
+}
+.about-river{
+    margin: auto;
+    padding: 35px;
+}
+.river-name, h5{
+    color: #55aac0;
+}
+.about-river-content{
+    display: flex;
+}
+.river-image{
+    height: 500px;
+    width: 700px;
+    margin: auto;
+}
+.river-more-info{
+    margin: auto;
+    margin-left: -100px;
+    border: solid white 1px;
+    background-color: #fcfbfb;
+    border-radius: 10px;
+}
+.river-footer{
+    text-align: center;
+    margin: auto;
+}
+.river-nav-a{
+    text-decoration: none;
+    color: black;
+}
+.river-nav-a:hover{
+    background-color: white;
+    color: black;
+}
